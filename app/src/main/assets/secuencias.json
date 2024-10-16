@@ -1,0 +1,287 @@
+[
+  {
+    "secuencia": ["1", "4", "9", "16", "25", "36"],
+    "logica": "Números cuadrados básicos",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["2", "4", "6", "8", "10"],
+    "logica": "Números pares",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["1", "3", "5", "7", "9"],
+    "logica": "Números impares",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["1", "2", "3", "4", "5"],
+    "logica": "Números naturales",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["10", "20", "30", "40", "50"],
+    "logica": "Números múltiplos de 10",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["1", "1", "2", "3", "5"],
+    "logica": "Serie de Fibonacci",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["0", "1", "2", "3", "4"],
+    "logica": "Números naturales comenzando desde cero",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["5", "10", "15", "20", "25"],
+    "logica": "Números múltiplos de 5",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["1", "2", "4", "8", "16"],
+    "logica": "Potencias de 2",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["1", "2", "3", "4", "5", "6"],
+    "logica": "Contando hasta 6",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["0", "1", "1", "2", "3", "5"],
+    "logica": "Serie de Fibonacci comenzando desde 0",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["2", "3", "5", "7", "11"],
+    "logica": "Números primos",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["10", "15", "20", "25", "30"],
+    "logica": "Números que terminan en 5",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["1", "2", "3", "4", "5", "6"],
+    "logica": "Contando del 1 al 6",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["3", "6", "9", "12", "15"],
+    "logica": "Números múltiplos de 3",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["1", "4", "7", "10", "13"],
+    "logica": "Secuencia aritmética de 3",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["1", "2", "4", "8", "16", "32"],
+    "logica": "Potencias de 2",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["1", "5", "9", "13", "17"],
+    "logica": "Secuencia aritmética de 4",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["0", "1", "2", "3", "4", "5"],
+    "logica": "Contando del 0 al 5",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["2", "4", "6", "8", "10", "12"],
+    "logica": "Números pares hasta 12",
+    "dificultad": "Baja"
+  },
+  {
+    "secuencia": ["1", "1", "2", "3", "5", "8", "13", "21", "34"],
+    "logica": "Serie de Fibonacci",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["1", "2", "4", "8", "16", "32", "64", "128", "256"],
+    "logica": "Potencias de 2",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["2", "4", "8", "16", "32", "64", "128", "256", "512"],
+    "logica": "Potencias de 2 comenzando en 2",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["1", "4", "9", "16", "25", "36", "49", "64", "81"],
+    "logica": "Números cuadrados",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["3", "6", "9", "12", "15", "18", "21", "24", "27"],
+    "logica": "Números múltiplos de 3",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["10", "20", "30", "40", "50", "60", "70", "80", "90"],
+    "logica": "Números múltiplos de 10",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["1", "3", "7", "13", "21", "31", "43", "57", "73"],
+    "logica": "Suma de números consecutivos más 1",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["2", "5", "10", "17", "26", "37", "50", "65", "82"],
+    "logica": "Suma de números consecutivos más 3",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["1", "2", "3", "5", "8", "12", "17", "23", "30"],
+    "logica": "Suma de dos números anteriores",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["2", "4", "6", "8", "10", "12", "14", "16", "18"],
+    "logica": "Números pares",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["1", "4", "7", "10", "13", "16", "19", "22", "25"],
+    "logica": "Secuencia aritmética de 3",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["0", "1", "1", "2", "3", "5", "8", "13", "21"],
+    "logica": "Serie de Fibonacci comenzando desde 0",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["5", "10", "15", "25", "40", "60", "80", "100", "135"],
+    "logica": "Secuencia que suma incrementos crecientes",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["1", "2", "3", "6", "11", "18", "27", "38", "51"],
+    "logica": "Suma de dos términos anteriores más 1",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["1", "1", "2", "3", "5", "8", "12", "19", "31"],
+    "logica": "Suma de dos números anteriores",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["1", "2", "4", "7", "11", "16", "22", "29", "37"],
+    "logica": "Suma de incrementos crecientes",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["2", "3", "5", "7", "11", "13", "17", "19", "23"],
+    "logica": "Números primos",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["1", "5", "10", "16", "23", "31", "40", "50", "61"],
+    "logica": "Secuencia con incrementos crecientes",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["1", "6", "11", "16", "21", "26", "31", "36", "41"],
+    "logica": "Secuencia aritmética de 5",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["2", "3", "6", "11", "18", "27", "38", "51", "66"],
+    "logica": "Suma de incrementos crecientes",
+    "dificultad": "Media"
+  },
+  {
+    "secuencia": ["1", "1", "2", "3", "5", "8", "13", "21", "34", "55", "89", "144"],
+    "logica": "Serie de Fibonacci",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["1", "4", "9", "16", "25", "36", "49", "64", "81", "100", "121", "144"],
+    "logica": "Números cuadrados",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["2", "3", "5", "7", "11", "13", "17", "19", "23", "29", "31", "37"],
+    "logica": "Números primos",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["0", "1", "1", "2", "6", "24", "120", "720", "5040", "40320", "362880", "3628800"],
+    "logica": "Factoriales",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["1", "2", "4", "7", "11", "16", "22", "29", "37", "46", "56", "67"],
+    "logica": "Suma de incrementos crecientes",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["1", "5", "10", "20", "35", "56", "84", "120", "165", "220", "286", "364"],
+    "logica": "Números triangulares",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["2", "4", "8", "16", "31", "62", "124", "248", "496", "992", "1984", "3968"],
+    "logica": "Potencias de 2 con incrementos",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["1", "1", "3", "6", "10", "15", "21", "28", "36", "45", "55", "66"],
+    "logica": "Números tetraédricos",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["3", "7", "15", "31", "63", "127", "255", "511", "1023", "2047", "4095", "8191"],
+    "logica": "Números de la forma 2^n - 1",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["1", "3", "6", "10", "15", "21", "28", "36", "45", "55", "66", "78"],
+    "logica": "Números poligonales de tipo triangular",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["1", "2", "4", "8", "16", "32", "64", "128", "256", "512", "1024", "2048"],
+    "logica": "Potencias de 2",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["1", "2", "4", "8", "16", "32", "64", "128", "256", "512", "1024", "2048"],
+    "logica": "Potencias de 2",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["2", "5", "10", "17", "26", "37", "50", "65", "82", "101", "122", "145"],
+    "logica": "Suma de números consecutivos incrementando de a 3",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["1", "2", "4", "8", "16", "24", "36", "50", "66", "84", "104", "126"],
+    "logica": "Suma de incrementos en pares",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["1", "10", "100", "1000", "10000", "100000", "1000000", "10000000", "100000000", "1000000000", "10000000000", "100000000000"],
+    "logica": "Potencias de 10",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["11", "13", "17", "19", "23", "29", "31", "37", "41", "43", "47", "53"],
+    "logica": "Números primos",
+    "dificultad": "Alta"
+  },
+  {
+    "secuencia": ["1", "1", "2", "4", "8", "16", "32", "64", "128", "256", "512", "1024"],
+    "logica": "Potencias de 2",
+    "dificultad": "Alta"
+  }
+]
